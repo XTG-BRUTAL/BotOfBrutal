@@ -118,7 +118,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Clone Repo & Installation dependencies
 ```bash
 🦄 git clone https://github.com/XTG-BRUTAL/BotOfBrutal.git
-🦄 cd DogeBot
+🦄 cd BotOfBrutal
 🦄 npm start
 ```
 ## For Termux
@@ -135,7 +135,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
 🦄 git clone https://github.com/XTG-BRUTAL/BotOfBrutal
-🦄 cd DogeBot
+🦄 cd BotOfBrutal
 🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
