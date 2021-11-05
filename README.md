@@ -5,7 +5,7 @@
 
 ## I'm a Student!!
 
-- 🔭 I just launched my first course: [Xtreme-Bot !][course]!
+- 🔭 I just launched my first repository: [Xtreme-Bot !][https://github.com/XTG-BRUTAL/Xtreme-Bot]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Making what's app bot
