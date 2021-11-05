@@ -90,7 +90,7 @@ width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4e
 [instagram]: https://instagram.com/fakebrutal_
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTG-BRUTAL/BotOfBrutal/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTG-BRUTAL/BotOfBrutal)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
