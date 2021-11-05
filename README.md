@@ -90,7 +90,7 @@ width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4e
 [instagram]: https://instagram.com/fakebrutal_
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTG-BRUTAL/BotOfBrutal/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -117,7 +117,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/XTG-BRUTAL/BotOfBrutal.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -134,7 +134,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/XTG-BRUTAL/BotOfBrutal
 🦄 cd DogeBot
 🦄 npm install
 🦄 npm start
