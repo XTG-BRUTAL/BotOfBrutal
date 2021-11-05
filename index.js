@@ -1583,7 +1583,7 @@ break
 case 'credit':
    dtod = '919101765679'
    dtod1 = '919101765679'
-   dtod2 = '919774340154'
+   dtod2 = '919101765679'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
