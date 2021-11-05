@@ -62,7 +62,7 @@
 - CURRENTLY THERE IS NO BLOG POSTS :)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [CLICK HERE FOR UPDATES REGARDING BLOG POST...](https://www.youtube.com/c/XTGBRUTAL)
 
 ---
 
