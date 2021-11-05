@@ -111,8 +111,8 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/XTG-BRUTAL/BotOfBrutal/blob/master/index.js)
+- CHANGE OWNER NAME [Here](https://github.com/XTG-BRUTAL/BotOfBrutal/blob/master/index.js)
 
 # Installation
 ## Clone Repo & Installation dependencies
