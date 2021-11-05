@@ -439,7 +439,7 @@ cmhit.push(command)
       Brutal.sendMessage(from, teks, text, { quoted: mek });
     };*/
     const textImg = (teks) => {
-           return ikyy.sendMessage(from, teks, text, {quoted: freply, thumbnail: fs.readFileSync('./Xeon.jpg')})
+           return ikyy.sendMessage(from, teks, text, {quoted: freply, thumbnail: fs.readFileSync('./xeon.jpg')})
         }
 const math = (teks) => {
            return Math.floor(teks)
@@ -482,7 +482,7 @@ const math = (teks) => {
       contextInfo: { forwardingScore: 999, isForwarded: true },
       sendEphemeral: true,
     };
-const freply = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { "contactMessage": { "displayName": `${pushname}`, "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${senderr.split('@')[0]}:${senderr.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, "jpegThumbnail":fs.readFileSync('./Xeon.jpg')
+const freply = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { "contactMessage": { "displayName": `${pushname}`, "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${senderr.split('@')[0]}:${senderr.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, "jpegThumbnail":fs.readFileSync('./xeon.jpg')
         }}}
 const freply7 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: '1595603042@s.whatsapp.net' } : {}) }, message: { "productMessage":{"product": {"productImage": {"mimetype":'image/jpeg',"jpegThumbnail": iye, "title": `${ucapanWaktu} ${pushname}`, "productImageCount": 1 }, "businessOwnerJid": `0@s.whatsapp.net` }}}
 }
@@ -1818,7 +1818,7 @@ case 'buglink':
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
-                "thumbnail": fs.readFileSync(`./Xeon.jpg`),
+                "thumbnail": fs.readFileSync(`./xeon.jpg`),
                 "sourceUrl": "https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"}}})
                 break
         case 'bugbutton':
@@ -4371,7 +4371,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://waifu.pics/api/sfw/awoo`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 case  'blowjob':
 if (!isGroup) return reply('this feature is only for groups')
@@ -4379,7 +4379,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://nekos.life/api/v2/img/blowjob`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 case  'hentai': 
 if (!isGroup) return reply('this feature is only for groups')
@@ -4387,7 +4387,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://waifu.pics/api/nsfw/neko`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 case  'megumin':
 if (!isGroup) return reply('this feature is only for groups')
@@ -4395,7 +4395,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://waifu.pics/api/sfw/megumin`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 case  'neko':
 if (!isGroup) return reply('this feature is only for groups')
@@ -4403,7 +4403,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://waifu.pics/api/nsfw/neko`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 case  'trapnime':
 if (!isGroup) return reply('this feature is only for groups')
@@ -4411,7 +4411,7 @@ if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: $
 reply(mess.wait)
 anu = await fetchJson(`https://waifu.pics/api/nsfw/trap`)
 buffer = await getBuffer(anu.url)
-Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+Brutal.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 break
 //Done
 case 'writeleft':
@@ -4518,7 +4518,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d?text=${makell}&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.results)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d2': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4526,7 +4526,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no2?text=${makell}&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.results)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d3': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4534,7 +4534,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no3?text=${makell}&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.results)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d4': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4542,7 +4542,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no4?text=${makell}&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.results)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'transformer': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4550,7 +4550,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker/special/transformer?text=${makell}&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.results)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'googletxt2':
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} tsukasa|chan|kawai`)
@@ -4561,7 +4561,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker?text=${ll1}&text2=${ll2}&text3=${ll3}&theme=google-suggestion&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'battlefield': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal|Doge`)
@@ -4571,7 +4571,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/game?text=${ll1}&text2=${ll2}&theme=battlefield&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'coffeecup': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4579,7 +4579,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'coffeecup2': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4587,7 +4587,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup2&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'neon': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4595,7 +4595,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=neon&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
               case 'glow': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4603,7 +4603,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=glow&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'summer': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4611,7 +4611,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=summer&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'flower': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4619,7 +4619,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=flower&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'burn': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4627,7 +4627,7 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/random?text=${makell}&theme=text-burn&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'quote': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4648,7 +4648,7 @@ buttons = [{buttonId: `quote`,buttonText:{displayText: `Thx Dah Pake`},type:1}]
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/roses?text=${makell}&theme=wooden-boarch&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'golden': 
                     if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal`)
@@ -4656,7 +4656,7 @@ buttons = [{buttonId: `quote`,buttonText:{displayText: `Thx Dah Pake`},type:1}]
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/roses?text=${makell}&theme=golden&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Xeon.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 case 'vnsecond':
 encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
