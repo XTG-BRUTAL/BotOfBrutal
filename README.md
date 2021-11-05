@@ -91,7 +91,6 @@
 </details>
 
 [whatsapp]: https://wa.me/+919101765679
-[course]: http://vsCodeHero.com
 [youtube]: https://www.youtube.com/c/XTGBRUTAL
 [instagram]: https://instagram.com/fakebrutal_
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
