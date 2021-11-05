@@ -107,7 +107,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/XTG-BRUTAL/BotOfBrutal/blob/master/session.json)
 
 ## `SETTING`
 
