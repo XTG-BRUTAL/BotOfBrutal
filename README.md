@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
   <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Brutal-blue.svg?style=for-the-badge&logo=github" /></a>
-[![<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 ## I'm a Student!!
 
 - 🔭 I just launched my first repository: [Xtreme-Bot !](https://github.com/XTG-BRUTAL/Xtreme-Bot)
