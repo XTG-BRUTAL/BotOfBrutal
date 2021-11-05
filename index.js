@@ -2380,7 +2380,7 @@ case 'triggered':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		Brutal.sendMessage(from, { text: "https://github.com/DGBrutal/DogeBot", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		Brutal.sendMessage(from, { text: "https://github.com/XTG-BRUTAL/BotOfBrutal", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
@@ -3540,7 +3540,7 @@ case 'hacked':
                 await sleep(1000)
                 Brutal.sendMessage(from, 'Succes Hacked', text, {quoted: fyt})
 case 'mygithub':
-  reply('https://github.com/DGBrutal')
+  reply('https://github.com/XTG-BRUTAL')
 					break;
    case 'ss':
       reply(mess.wait)
@@ -3815,7 +3815,7 @@ case 'debug2':
       {
         "urlButton": {
           "displayText": `Script ${fakeyoi}`,
-          "url": "https://github.com/DGBrutal/DogeBot"
+          "url": "https://github.com/XTG-BRUTAL/BotOfBrutal"
         },
         "index": 0
       }
