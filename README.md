@@ -77,7 +77,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. nil
+1. Updated Node_Module
+2. Fixing session.js File
+3. Fixing connect attempt failed
 <!--END_SECTION:activity-->
 
 </details>
