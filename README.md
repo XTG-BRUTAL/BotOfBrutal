@@ -1,6 +1,6 @@
 ### Hi there, I'm XTG-BRUTAL - aka [arnab](https://github.com/XTG-BRUTAL) 👋
 
-[![Website](https://img.shields.io/website?label=https://github.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/XTG-BRUTAL/BotOfBrutal)
+[![Website](https://img.shields.io/website?label=https://github.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/XTG-BRUTAL/BotOfBrutal)
   <a href="https://github.com/XTG-BRUTAL"><img title="Author" src="https://img.shields.io/badge/Author-Brutal-blue.svg?style=for-the-badge&logo=github" /></a>
 ## I'm a Student!!
 
