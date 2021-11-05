@@ -83,7 +83,7 @@ const starts = async (client = new WAConnection()) => {
   });
   client.on("open", () => {
     success("2", "Successfully connected to wa, Subscribe Brutal");
-console.log(color(figlet.textSync(`${spc1}            Doge Bot`, {
+console.log(color(figlet.textSync(`${spc1}            BOT OF BRUTAL`, {
 font: 'Standard',
 horizontalLayout: 'default',
 vertivalLayout: 'default',
