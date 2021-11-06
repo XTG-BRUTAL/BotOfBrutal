@@ -6166,6 +6166,631 @@ Brutal.sendMessage(from, stdout, text, term)
           if (hour_now >= '00:00' && hour_now <= '02:00') {
            console.log(color('[Message Bot]', 'cyan'), color('Horny = Bonks', 'yellow'), color('(💥)', 'white'))
         }
+if (budy.includes(`Wah`)) {
+const Peli = fs.readFileSync('./voicesticker/wah.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`wah`)) {
+const Peli = fs.readFileSync('./voicesticker/wah.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`sikha`)) {
+const Peli = fs.readFileSync('./voicesticker/sikha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Sikha`)) {
+const Peli = fs.readFileSync('./voicesticker/sikha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`selmon`)) {
+const Peli = fs.readFileSync('./voicesticker/selmon.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Selmon`)) {
+const Peli = fs.readFileSync('./voicesticker/selmon.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Pardesi`)) {
+const Peli = fs.readFileSync('./voicesticker/pardesi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`pardesi`)) {
+const Peli = fs.readFileSync('./voicesticker/pardesi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`ohhh`)) {
+const Peli = fs.readFileSync('./voicesticker/ohhh.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Ohhh`)) {
+const Peli = fs.readFileSync('./voicesticker/ohhh.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`nikal`)) {
+const Peli = fs.readFileSync('./voicesticker/nikal.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Nikal`)) {
+const Peli = fs.readFileSync('./voicesticker/nikal.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`moj`)) {
+const Peli = fs.readFileSync('./voicesticker/moj.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Moj`)) {
+const Peli = fs.readFileSync('./voicesticker/moj.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Marry`)) {
+const Peli = fs.readFileSync('./voicesticker/marriage.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`marry`)) {
+const Peli = fs.readFileSync('./voicesticker/marriage.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`madarchod`)) {
+const Peli = fs.readFileSync('./voicesticker/madarchod.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Madarchod`)) {
+const Peli = fs.readFileSync('./voicesticker/madarchod.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Lmao`)) {
+const Peli = fs.readFileSync('./voicesticker/lmao.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`lmao`)) {
+const Peli = fs.readFileSync('./voicesticker/lmao.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`horny`)) {
+const Peli = fs.readFileSync('./voicesticker/horny.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Horny`)) {
+const Peli = fs.readFileSync('./voicesticker/horny.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`hmm`)) {
+const Peli = fs.readFileSync('./voicesticker/hmm.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Hmm`)) {
+const Peli = fs.readFileSync('./voicesticker/hmm.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`muth`)) {
+const Peli = fs.readFileSync('./voicesticker/hila.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Muth`)) {
+const Peli = fs.readFileSync('./voicesticker/hila.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`hasi`)) {
+const Peli = fs.readFileSync('./voicesticker/haha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Hasi`)) {
+const Peli = fs.readFileSync('./voicesticker/haha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`gulambi`)) {
+const Peli = fs.readFileSync('./voicesticker/gulabi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Gulambi`)) {
+const Peli = fs.readFileSync('./voicesticker/gulabi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`gadbad`)) {
+const Peli = fs.readFileSync('./voicesticker/gadbad.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Gadbad`)) {
+const Peli = fs.readFileSync('./voicesticker/gadbad.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`dhoka`)) {
+const Peli = fs.readFileSync('./voicesticker/dhoka.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Dhoka`)) {
+const Peli = fs.readFileSync('./voicesticker/dhoka.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`chacha`)) {
+const Peli = fs.readFileSync('./voicesticker/chacha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Chacha`)) {
+const Peli = fs.readFileSync('./voicesticker/chacha.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`bhoot`)) {
+const Peli = fs.readFileSync('./voicesticker/bhoot.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Bhoot`)) {
+const Peli = fs.readFileSync('./voicesticker/bhoot.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`bhadwe`)) {
+const Peli = fs.readFileSync('./voicesticker/bhadwe.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Bhadwe`)) {
+const Peli = fs.readFileSync('./voicesticker/bhadwe.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Beizzat`)) {
+const Peli = fs.readFileSync('./voicesticker/beizzat.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`beizzat`)) {
+const Peli = fs.readFileSync('./voicesticker/beizzat.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`bass`)) {
+const Peli = fs.readFileSync('./voicesticker/bass.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Bass`)) {
+const Peli = fs.readFileSync('./voicesticker/bass.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Awesome`)) {
+const Peli = fs.readFileSync('./voicesticker/awesome.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`awesome`)) {
+const Peli = fs.readFileSync('./voicesticker/awesome.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`arey`)) {
+const Peli = fs.readFileSync('./voicesticker/arey.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Arey`)) {
+const Peli = fs.readFileSync('./voicesticker/arey.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`alvida`)) {
+const Peli = fs.readFileSync('./voicesticker/Alvida.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Alvida`)) {
+const Peli = fs.readFileSync('./voicesticker/Alvida.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Done`)) {
+const Peli = fs.readFileSync('./voicesticker/done.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`done`)) {
+const Peli = fs.readFileSync('./voicesticker/done.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`gaya`)) {
+const Peli = fs.readFileSync('./voicesticker/gaya.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Gaya`)) {
+const Peli = fs.readFileSync('./voicesticker/gaya.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Khatam`)) {
+const Peli = fs.readFileSync('./voicesticker/gaya.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`khatam`)) {
+const Peli = fs.readFileSync('./voicesticker/gaya.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`life`)) {
+const Peli = fs.readFileSync('./voicesticker/life.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Life`)) {
+const Peli = fs.readFileSync('./voicesticker/life.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`lol`)) {
+const Peli = fs.readFileSync('./voicesticker/lol.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Lol`)) {
+const Peli = fs.readFileSync('./voicesticker/lol.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`sad`)) {
+const Peli = fs.readFileSync('./voicesticker/sad.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Sad`)) {
+const Peli = fs.readFileSync('./voicesticker/sad.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`funny`)) {
+const Peli = fs.readFileSync('./voicesticker/fullcomedy.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Funny`)) {
+const Peli = fs.readFileSync('./voicesticker/fullcomedy.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`hi`)) {
+const Peli = fs.readFileSync('./voicesticker/hi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Hi`)) {
+const Peli = fs.readFileSync('./voicesticker/hi.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`hello`)) {
+const Peli = fs.readFileSync('./voicesticker/hello.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Hello`)) {
+const Peli = fs.readFileSync('./voicesticker/hello.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`afternoon`)) {
+const Peli = fs.readFileSync('./voicesticker/afternoon.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Afternoon`)) {
+const Peli = fs.readFileSync('./voicesticker/afternoon.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`night`)) {
+const Peli = fs.readFileSync('./voicesticker/night.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Night`)) {
+const Peli = fs.readFileSync('./voicesticker/night.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Thanks`)) {
+const Peli = fs.readFileSync('./voicesticker/thanks.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`thanks`)) {
+const Peli = fs.readFileSync('./voicesticker/thanks.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`tq`)) {
+const Peli = fs.readFileSync('./voicesticker/thanks.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Tq`)) {
+const Peli = fs.readFileSync('./voicesticker/thanks.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`chapri`)) {
+const Peli = fs.readFileSync('./voicesticker/q re chapri.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Chapri`)) {
+const Peli = fs.readFileSync('./voicesticker/q re chapri.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Morning`)) {
+const Peli = fs.readFileSync('./voicesticker/good morning.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`morning`)) {
+const Peli = fs.readFileSync('./voicesticker/good morning.mp3');
+itsmevall.sendMessage(from, Peli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+}
+if (budy.includes(`Vidhayak`)) {
+const Peli = fs.readFileSync('./voicesticker/vidhayak.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`vidhayak`)) {
+const Peli = fs.readFileSync('./voicesticker/vidhayak.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`hear`)) {
+const Peli = fs.readFileSync('./voicesticker/ok.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Hear`)) {
+const Peli = fs.readFileSync('./voicesticker/ok.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`karo`)) {
+const Peli = fs.readFileSync('./voicesticker/karo.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Karo`)) {
+const Peli = fs.readFileSync('./voicesticker/karo.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`love`)) {
+const Peli = fs.readFileSync('./voicesticker/love.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Love`)) {
+const Peli = fs.readFileSync('./voicesticker/love.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`nice`)) {
+const Peli = fs.readFileSync('./voicesticker/nice.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Nice`)) {
+const Peli = fs.readFileSync('./voicesticker/nice.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`smile`)) {
+const Peli = fs.readFileSync('./voicesticker/smile.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Smile`)) {
+const Peli = fs.readFileSync('./voicesticker/smile.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`ahh`)) {
+const Peli = fs.readFileSync('./voicesticker/ahh.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Ahh`)) {
+const Peli = fs.readFileSync('./voicesticker/ahh.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Fk`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`fk`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Fuck`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Fck`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`fuck`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`fck`)) {
+const Peli = fs.readFileSync('./voicesticker/f.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`datte`)) {
+const Peli = fs.readFileSync('./voicesticker/datte.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Datte`)) {
+const Peli = fs.readFileSync('./voicesticker/datte.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`sed`)) {
+const Peli = fs.readFileSync('./voicesticker/sed.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Sed`)) {
+const Peli = fs.readFileSync('./voicesticker/sed.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`mikey`)) {
+const Peli = fs.readFileSync('./voicesticker/mikey.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Mikey`)) {
+const Peli = fs.readFileSync('./voicesticker/mikey.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`cute`)) {
+const Peli = fs.readFileSync('./voicesticker/cute.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Cute`)) {
+const Peli = fs.readFileSync('./voicesticker/cute.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Cutie`)) {
+const Peli = fs.readFileSync('./voicesticker/cute.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`cutie`)) {
+const Peli = fs.readFileSync('./voicesticker/cute.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`sing`)) {
+const Peli = fs.readFileSync('./voicesticker/sing.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Sing`)) {
+const Peli = fs.readFileSync('./voicesticker/sing.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`ok`)) {
+const Peli = fs.readFileSync('./voicesticker/okay.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Ok`)) {
+const Peli = fs.readFileSync('./voicesticker/okay.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Chut`)) {
+const Peli = fs.readFileSync('./voicesticker/chut.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`chut`)) {
+const Peli = fs.readFileSync('./voicesticker/chut.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`sex`)) {
+const Peli = fs.readFileSync('./voicesticker/sex.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Sex`)) {
+const Peli = fs.readFileSync('./voicesticker/sex.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`bacche`)) {
+const Peli = fs.readFileSync('./voicesticker/baccha.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Bacche`)) {
+const Peli = fs.readFileSync('./voicesticker/baccha.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`baccha`)) {
+const Peli = fs.readFileSync('./voicesticker/baccha.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Baccha`)) {
+const Peli = fs.readFileSync('./voicesticker/baccha.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`gandu`)) {
+const Peli = fs.readFileSync('./voicesticker/gussa.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Gandu`)) {
+const Peli = fs.readFileSync('./voicesticker/gussa.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`randi`)) {
+const Peli = fs.readFileSync('./voicesticker/randi.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Randi`)) {
+const Peli = fs.readFileSync('./voicesticker/randi.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Breakup`)) {
+const Peli = fs.readFileSync('./voicesticker/breakup.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`breakup`)) {
+const Peli = fs.readFileSync('./voicesticker/breakup.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`ded`)) {
+const Peli = fs.readFileSync('./voicesticker/ded.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Ded`)) {
+const Peli = fs.readFileSync('./voicesticker/ded.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`angry`)) {
+const Peli = fs.readFileSync('./voicesticker/angry.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Angry`)) {
+const Peli = fs.readFileSync('./voicesticker/angry.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`pain`)) {
+const Peli = fs.readFileSync('./voicesticker/pain.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Pain`)) {
+const Peli = fs.readFileSync('./voicesticker/pain.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`lie`)) {
+const Peli = fs.readFileSync('./voicesticker/lie.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Lie`)) {
+const Peli = fs.readFileSync('./voicesticker/lie.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`sorry`)) {
+const Peli = fs.readFileSync('./voicesticker/sorry.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Sorry`)) {
+const Peli = fs.readFileSync('./voicesticker/sorry.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Wtf`)) {
+const Peli = fs.readFileSync('./voicesticker/wtf.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`wtf`)) {
+const Peli = fs.readFileSync('./voicesticker/wtf.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`money`)) {
+const Peli = fs.readFileSync('./voicesticker/money.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Money`)) {
+const Peli = fs.readFileSync('./voicesticker/money.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`luv`)) {
+const Peli = fs.readFileSync('./voicesticker/luv.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Luv`)) {
+const Peli = fs.readFileSync('./voicesticker/luv.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`goldigger`)) {
+const Peli = fs.readFileSync('./voicesticker/golddigger.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Goldigger`)) {
+const Peli = fs.readFileSync('./voicesticker/golddigger.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`wahi`)) {
+const Peli = fs.readFileSync('./voicesticker/wahi.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Wahi`)) {
+const Peli = fs.readFileSync('./voicesticker/wahi.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`game`)) {
+const Peli = fs.readFileSync('./voicesticker/game.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Game`)) {
+const Peli = fs.readFileSync('./voicesticker/game.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Bhosdike`)) {
+const Peli = fs.readFileSync('./voicesticker/bhosdike.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`bhosdike`)) {
+const Peli = fs.readFileSync('./voicesticker/bhosdike.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Bonk`)) {
+const Peli = fs.readFileSync('./voicesticker/bonk.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`bonk`)) {
+const Peli = fs.readFileSync('./voicesticker/bonk.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`Emotional`)) {
+const Peli = fs.readFileSync('./voicesticker/emotional.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+if (budy.includes(`emotional`)) {
+const Peli = fs.readFileSync('./voicesticker/emotional.webp');
+itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
+}
+
 
      if (!mek.key.fromMe) return;
         if (_chats.startsWith(">")) {
