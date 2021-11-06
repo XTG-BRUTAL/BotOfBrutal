@@ -206,7 +206,7 @@ if (anu.action == 'add' && !mem.includes(client.user.jid)) {
                 anu_user = v.vname || v.notify || num.split('@')[0]
                 time_welc = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
-                teks = `🌿 *Hɪ* @${num.split('@')[0]}\n🌿 *Bɪᴏ* : *${thu.status}*\n🌿 *Mᴇᴍʙᴇʀs : ${memeg}*\n🌿 *Wᴇʟᴄᴏᴍᴇ Tᴏ* \n *${mdata.subject}*\n🌿 *ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*\n 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`
+                teks = `🌿 *Hɪ* @${num.split('@')[0]}\n🌿 *Bɪᴏ* : *${thu.status}*\n🌿 *Mᴇᴍʙᴇʀs : ${memeg}*\n🌿 *Wᴇʟᴄᴏᴍᴇ Tᴏ* \n *${mdata.subject}*\n🌿 *ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*\n★彡[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]彡★`
                 welcomeBut = [{buttonId:`getdeskgc`,buttonText:{displayText:'DESCRIPTION'},type:1}, {buttonId:`okeyx`,buttonText:{displayText:'CLICK HERE'},type:1}]
                 welcomeButt = { contentText: ` `, footerText: `${teks}`, buttons: welcomeBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
                 client.sendMessage(mdata.id, welcomeButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
