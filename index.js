@@ -1302,7 +1302,7 @@ const serialUser = createSerial(18)
 	        fs.writeFileSync('./database/user/registered.json', JSON.stringify(_registered))
 	        addRegisteredUser(sender, serialUser)
 	         const anuu = `「 *USER REGISTRATION* 」
-*Thank you for registering in the 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭 Database*
+*Thank you for registering in the ★彡[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]彡★ Database*
 
 *☂︎ Name :* ${pushname}
 *☂︎ API :* +${sender.split('@')[0]}
@@ -1321,7 +1321,7 @@ const serialUser = createSerial(18)
 	    // console.log(e)
             setTimeout( () => {
 			Brutal.updatePresence(from, Presence.composing)
-			reply(`*Thank you for being registered 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭*`)
+			reply(`*Thank you for being registered ★彡[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]彡★*`)
 		}, 2000)
         break
       
