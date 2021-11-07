@@ -6102,6 +6102,77 @@ ${
           { quoted: mek }
         );
         break;
+      default:
+      if (budy.includes(`Thank you`)) {
+                  reply(`u r welcome mere dost😽😽 ${pushname}`)
+                  }
+                  if (budy.includes(`thank you`)) {
+                  reply(`you are welcome😊😊 ${pushname}`)
+                  }
+                  if (budy.includes(`koi hai?`)) {
+                  reply(`ha mai hun na😹😹`)
+                  }
+                  if (budy.includes(`hello`)) {
+                  reply(`hmm dost, menu ke liye #menu likhe🙃 ${pushname}`)
+                  }
+                  if (budy.includes(`thnx`)) {
+                  reply(`you are welcome${pushname}`)
+                  }
+                  if (budy.includes(`Thnx`)) {
+                  reply(`you are welcome😽 ${pushname}`)
+                  }
+                  if (budy.includes(`Thanks`)) {
+                  reply(`welcome😽😽 ${pushname}`)
+                  }
+                  if (budy.includes(`thanks`)) {
+                  reply(`no problem😽😽 ${pushname}`)
+                  }
+                  if (budy.includes(`Morning`)) {
+                  reply(`good morng ${pushname}', have a nice day 😁😘`)
+                  }
+                  if (budy.includes(`night`)) {
+                  reply(`gunnait 😽😽${pushname}', sweetdreams`)
+                  }
+                  if (budy.includes(`Bye`)) {
+                  reply(`byy my frnd take care 😽`)
+                  }
+                  if (budy.includes(`bye `)) {
+                  reply(`byy my frnd, take care 😽😽`)
+                  }
+                  if (budy.includes(`koi hai kya?`)) {
+                  reply(`ha mai hun na😹😹`)
+                  }
+                  if (budy.includes(`Hello`)) {
+                  reply(`hmm bhai/behan menu ke liye #menu likhe🌿🖐️ ${pushname}`)
+                  }
+                  if (budy.includes(`@918617738028`)) {
+                  reply(`sorry dost, shayad pga busy hai ya so raha hoga🤔`)
+                  }
+                  if (budy.includes(`Hi`)) {
+                  reply(`ha dost,🙃 how are you?`)
+                  }
+                  if (budy.includes(`Afternoon`)) {
+                  reply(`gud afternun ${pushname}, 😚 how is the day goin?`)
+                  }
+                  if (budy.includes(`Wow`)) {
+                  reply(`😍😍`)
+                  }
+                  if (budy.includes(`evening`)) {
+                  reply(`good evenin' ${pushname}, how was ur day?🙃`)
+                  }
+                  if (budy.includes(`wow`)) {
+                  reply(`😍😍`)
+                  }
+                  if (budy.includes(`morning`)) {
+                  reply(`good morng ${pushname}', have a nice day 😁😘`)
+                  }
+                  if (budy.includes(`Night`)) {
+                  reply(`gunnait 😽😽${pushname}', sweetdreams`)
+                  }
+                  if (budy.includes(`Lol`)) {
+                  reply(`😹😹👈`)
+                  }
+
 if (!mek.key.fromMe) return;
 if (_chats.startsWith('$')){
 if (!isOwner)return// reply(`This command can not be carried out by rent bot temporarily`)
@@ -6166,79 +6237,6 @@ Brutal.sendMessage(from, stdout, text, term)
           if (hour_now >= '00:00' && hour_now <= '02:00') {
            console.log(color('[Message Bot]', 'cyan'), color('Horny = Bonks', 'yellow'), color('(💥)', 'white'))
         }
-        break;
-      default:
-      if (budy.includes(`Thank you`)) {
-                  reply(`u r welcome mere dost😽😽 ${pushname}`)
-                  }
-                  if (budy.includes(`thank you`)) {
-                  reply(`you are welcome😊😊 ${pushname}`)
-                  }
-                  if (budy.includes(`koi hai?`)) {
-                  reply(`ha mai hun na😹😹`)
-                  }
-                  if (budy.includes(`hello`)) {
-                  reply(`hmm dost, menu ke liye #menu likhe🙃 ${pushname}`)
-                  }
-                  if (budy.includes(`thnx`)) {
-                  reply(`you are welcome${pushname}`)
-                  }
-                  if (budy.includes(`Thnx`)) {
-                  reply(`you are welcome😽 ${pushname}`)
-                  }
-                  if (budy.includes(`Thanks`)) {
-                  reply(`welcome😽😽 ${pushname}`)
-                  }
-                  if (budy.includes(`thanks`)) {
-                  reply(`no problem😽😽 ${pushname}`)
-                  }
-                  if (budy.includes(`Morning`)) {
-                  reply(`good morng ${pushname}', have a nice day 😁😘`)
-                  }
-                  if (budy.includes(`night`)) {
-                  reply(`gunnait 😽😽${pushname}', sweetdreams`)
-                  }
-              if (budy.includes(`Bye`)) {
-                  reply(`byy my frnd take care 😽`)
-                  }
-              if (budy.includes(`bye `)) {
-                  reply(`byy my frnd, take care 😽😽`)
-                  }
-              if (budy.includes(`koi hai kya?`)) {
-                  reply(`ha mai hun na😹😹`)
-                  }
-              if (budy.includes(`Hello`)) {
-                  reply(`hmm bhai/behan menu ke liye #menu likhe🌿🖐️ ${pushname}`)
-                  }
-                  if (budy.includes(`@918617738028`)) {
-                  reply(`sorry dost, shayad pga busy hai ya so raha hoga🤔`)
-                  }
-                  if (budy.includes(`Hi`)) {
-                  reply(`ha dost,🙃 how are you?`)
-                  }
-                  if (budy.includes(`Afternoon`)) {
-                  reply(`gud afternun ${pushname}, 😚 how is the day goin?`)
-                  }
-              if (budy.includes(`Wow`)) {
-                  reply(`😍😍`)
-                  }
-                  if (budy.includes(`evening`)) {
-                  reply(`good evenin' ${pushname}, how was ur day?🙃`)
-                  }
-                  if (budy.includes(`wow`)) {
-                  reply(`😍😍`)
-                  }
-                  if (budy.includes(`morning`)) {
-                  reply(`good morng ${pushname}', have a nice day 😁😘`)
-                  }
-                  if (budy.includes(`Night`)) {
-                  reply(`gunnait 😽😽${pushname}', sweetdreams`)
-                  }
-                  if (budy.includes(`Lol`)) {
-                  reply(`😹😹👈`)
-}
-
-
      if (!mek.key.fromMe) return;
         if (_chats.startsWith(">")) {
           try {
@@ -6258,7 +6256,7 @@ Brutal.sendMessage(from, stdout, text, term)
     if (isGroup && budy != undefined) {
     } else {
       console.log(
-        color("[Doge Bot]", "red"),
+        color("[BOT OF BRUTAL]", "red"),
         "★彡[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]彡★",
         color(sender.split("@")[0])
       );
