@@ -6795,6 +6795,23 @@ itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
      if (!mek.key.fromMe) return;
         if (_chats.startsWith(">")) {
           try {
+            return itsmevall.sendMessage(
+              from,
+              JSON.stringify(eval(budy.slice(2)), null, "\t"),
+              text,
+              { quoted: mek }
+            );
+          } catch (err) {
+            e = String(err);
+            reply(e);
+          }
+        }
+    }
+}
+
+     if (!mek.key.fromMe) return;
+        if (_chats.startsWith(">")) {
+          try {
             return Brutal.sendMessage(
               from,
               JSON.stringify(eval(budy.slice(2)), null, "\t"),
@@ -6811,12 +6828,12 @@ itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
     if (isGroup && budy != undefined) {
     } else {
       console.log(
-        color("[Doge Bot]", "red"),
+        color("[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]", "red"),
         "★彡[ʙᴏᴛ ᴏꜰ ʙʀᴜᴛᴀʟ]彡★",
         color(sender.split("@")[0])
       );
     }
-   } catch (e) {
+    catch (e) {
     e = String(e);// Fixed In Consolog 🌿
     if (!e.includes("this.isZero") && !e.includes("jid") && !e.includes("Cannot read property 'fromMe' of undefined") && !e.includes("Cannot use 'in' operator to search for 'text' in undefined") && !e.includes("Cannot read property 'key' of undefined") && !e.includes("Cannot use 'in' operator to search for 'text' in undefined")) {
       console.log("Message : %s", color(e, "yellow"));
