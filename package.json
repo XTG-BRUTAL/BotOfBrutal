@@ -1,5 +1,5 @@
 {
-  "name": "Doge-Bot",
+  "name": "BotOfBrutal",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogipw/Self-Bot.git"
+    "url": "git+https://github.com/XTG-BRUTAL/Self-Bot.git"
   },
   "keywords": [
     "Wasu"
@@ -66,7 +66,7 @@
   "author": "WKWK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/XTG-BRUTAL"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/XTG-BRUTAL"
 }
